@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 
-     Copyright (C) 2020 crDroid Android Project
+     Copyright (C) 2018 Havoc-OS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@
 			<stroke android:width="8dp" android:color="@android:color/transparent" />
 		</shape>
 	</item>
-	<item android:state_checked="false" android:alpha="?android:disabledAlpha">
+	<item android:state_checked="false">
 		<shape android:visible="true" android:shape="rectangle" android:useLevel="false">
 			<solid android:color="@*android:color/switch_track_material" />
 			<corners android:radius="25dp" />
