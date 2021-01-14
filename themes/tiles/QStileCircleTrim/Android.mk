@@ -3,8 +3,8 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := QStileCircleTrim
-LOCAL_RRO_THEME := QStileCircleTrim
+LOCAL_PACKAGE_NAME := QSTileCircleTrim
+LOCAL_RRO_THEME := QSTileCircleTrim
 LOCAL_SDK_VERSION := current
 LOCAL_CERTIFICATE := platform
 LOCAL_PRODUCT_MODULE := true
