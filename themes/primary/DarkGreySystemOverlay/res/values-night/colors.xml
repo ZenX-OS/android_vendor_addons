@@ -23,4 +23,14 @@
 
     <color name="theme_generic_semi_transparent_color">#EA151618</color>
 
+    <!-- ZenHub Card colors -->
+    <color name="card_color">#292929</color>
+    <color name="card_1_color">#272727</color>
+    <color name="card_2_color">#252525</color>
+    <color name="card_3_color">#222222</color>
+    <color name="card_4_color">#1F1F1F</color>
+    <color name="card_5_color">#1C1C1C</color>
+    <color name="card_6_color">#191919</color>
+    <color name="card_7_color">#171717</color>
+    <color name="card_8_color">#151515</color>
 </resources>

@@ -22,4 +22,15 @@
 
     <color name="theme_generic_semi_transparent_color">#EA002b36</color>
 
+    <!-- ZenHub Card colors -->
+    <color name="card_color">#244C58</color>
+    <color name="card_1_color">#214550</color>
+    <color name="card_2_color">#1E3F49</color>
+    <color name="card_3_color">#1B3942</color>
+    <color name="card_4_color">#19343C</color>
+    <color name="card_5_color">#172F37</color>
+    <color name="card_6_color">#152B32</color>
+    <color name="card_7_color">#13272D</color>
+    <color name="card_8_color">#112329</color>
+
 </resources>
