@@ -16,8 +16,10 @@
   NOTE: You might also want to edit: packages/SystemUI/res/values-night/colors.xml
   -->
 <resources>
-    <dimen name="control_corner_material">2dp</dimen>
-    <dimen name="dialog_corner_radius">2dp</dimen>
-    <dimen name="config_buttonCornerRadius">2dp</dimen>
-    <dimen name="config_dialogCornerRadius">2dp</dimen>
+    <dimen name="control_corner_material">32dp</dimen>
+    <dimen name="dialog_corner_radius">32dp</dimen>
+    <dimen name="config_buttonCornerRadius">32dp</dimen>
+    <dimen name="config_dialogCornerRadius">32dp</dimen>
+    <dimen name="tooltip_corner_radius">32dp</dimen>
+    <dimen name="corner_size">32dp</dimen>
 </resources>

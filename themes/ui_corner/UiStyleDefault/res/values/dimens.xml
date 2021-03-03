@@ -20,4 +20,6 @@
     <dimen name="dialog_corner_radius">26dp</dimen>
     <dimen name="config_buttonCornerRadius">26dp</dimen>
     <dimen name="config_dialogCornerRadius">26dp</dimen>
+    <dimen name="tooltip_corner_radius">26dp</dimen>
+    <dimen name="corner_size">26dp</dimen>
 </resources>
