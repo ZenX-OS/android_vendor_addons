@@ -23,7 +23,7 @@
 
     <color name="theme_generic_semi_transparent_color">#FF0F111A</color>
 
-    <!-- ZenHub Card colors -->
+    <!-- Olymp Card colors -->
     <color name="card_color">#1F3F53</color>
     <color name="card_1_color">#1A394B</color>
     <color name="card_2_color">#153243</color>
